@@ -7,7 +7,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/tetris-python.git
+   git clone https://github.com/AlexZhelPy/tetris-python.git
    cd tetris-python
 2. Установите зависимости:
 
